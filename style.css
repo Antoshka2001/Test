@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+main{
+    padding: 0 150px;
+    height: 1000px;
+    background-color: #d6d6d6;
+}
+.whychoose-title{
+    font-size: 35px;
+    text-align: center;
+    padding: 40px;
+}
+.whychoose-left , .whychoose-right{
+    width: 45%;
+    background-color: #cecece;
+    height: 600px;
+    position: absolute;
+}
+.whychoose-right{
+    left: 52%;
+}
+.whychoose-left{
+    left: 5%;
+}
+.w-img-1{
+    width: 50%;   
+    height: 100%;
+    position: relative;
+    top: 0px;
+    left: -30%;
+}
+.w-img-2{
+    width: 50%;
+    height: 50%;
+}
+.w-img-pos{
+    position: relative;
+    top: -101%;
+    left: 22%;
+    height: 100%;
+}
+.w-text{
+    height: 30%;
+}
